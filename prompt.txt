@@ -1,0 +1,51 @@
+I need a JSON object that represents the specifications of various lighting fixtures.
+ Use the following format and guidelines:
+
+
+{
+  "Name": "Fixture Name",
+  "Manufacturer": "Manufacturer Name",
+  "Image": "Image URL",
+  "Dimensions": {
+    "Weight": Number, // Weight in pounds
+    "Height": Number, // Height in inches
+    "Width": Number, // Width in inches
+    "Depth": Number // Depth in inches
+  },
+  "Power": {
+    "AC_voltage": "AC voltage range",
+    "Power_Draw": Number, // Power draw in watts
+    "DC_Port": "DC port type",
+    "DC_voltage": "DC input voltage range", // Specify the range if available, otherwise the nominal voltage
+    "AC_plug": "AC plug type",
+    "USB_Power": true/false,
+    "Battery_Compatible": true/false
+  },
+  "Optics": {
+    "Beam_Angle": "Beam angle in degrees",
+    "Color_Temp": "Color temperature range",
+    "Source": "Light source type", // e.g., "LED", "HMI", "Tungsten"
+    "LED_Array": "LED array type", // e.g., "RGBA", "RGBACL"
+    "Color": true/false,
+    "Pixel_count": Number, // Number of pixels
+    "Lens": "Lens type" // Example: "10 inch Fresnel"
+  },
+  "Control": {
+    "crmx": true/false,
+    "RDM": true/false,
+    "Ethernet_Protocols": "Ethernet protocols", // e.g., "sACN", "Art-Net"
+    "Ethernet": true/false,
+    "5_Pin_DMX": true/false,
+    "3_Pin_DMX": true/false
+  },
+  "Physical": {
+    "mount": "Mount type",
+    "IP_Rating": "IP rating"
+  }
+}
+
+
+	•	Omit any fields you cannot find information for and omit comments in the final JSON.
+	•	For boolean fields (true/false), ensure they are correctly represented.
+	•	Ensure the DC voltage specifies the input voltage range if available, otherwise, use the nominal voltage.
+	•	After providing the JSON data, add a link to the source(s) for verification.
