@@ -30,18 +30,21 @@ def create_git_branch(branch_name, repo_path):
 
 
 def git_commit_and_checkout(branch_name, repo_path, commit_message):
-    original_cwd = os.getcwd()
-    try:
-        os.chdir(repo_path)
-        # Add changes to the staging area and commit
-        subprocess.run(["git", "add", "."], check=True)
-        subprocess.run(["git", "commit", "-m", commit_message], check=True)
-        # Checkout back to the main branch
-        subprocess.run(
-            ["git", "checkout", "main"], check=True
-        )  # Adjust if your main branch has a different name
-    finally:
-        os.chdir(original_cwd)
+    # Check for changes
+    result = subprocess.run(
+        ["git", "status", "--porcelain"], cwd=repo_path, capture_output=True, text=True
+    )
+    if result.stdout.strip() == "":
+        print("No changes to commit.")
+        return  # Exit the function early if there are no changes
+
+    # If there are changes, proceed with commit
+    subprocess.run(["git", "add", "."], cwd=repo_path, check=True)
+    subprocess.run(["git", "commit", "-m", commit_message], cwd=repo_path, check=True)
+    # Checkout back to the main branch
+    subprocess.run(
+        ["git", "checkout", "main"], cwd=repo_path, check=True
+    )  # Adjust if your main branch has a different name
 
     # Push changes and create a PR
     github_token = os.getenv(
@@ -49,13 +52,11 @@ def git_commit_and_checkout(branch_name, repo_path, commit_message):
     )  # Ensure you've set this environment variable
     repo_full_name = "your_github_username/your_repo_name"  # Replace with your GitHub username and repository name
     push_changes_and_create_pr(
-        branch_name, repo_path, commit_message, github_token, repo_full_name
+        branch_name, repo_path, commit_message
     )
 
 
-def push_changes_and_create_pr(
-    branch_name, repo_path, commit_message, github_token, repo_full_name
-):
+def push_changes_and_create_pr(branch_name, repo_path, commit_message):
     # Push the changes
     subprocess.run(
         ["git", "push", "--set-upstream", "origin", branch_name],
@@ -63,26 +64,21 @@ def push_changes_and_create_pr(
         check=True,
     )
 
-    # Create a pull request
-    headers = {
-        "Authorization": f"token {github_token}",
-        "Accept": "application/vnd.github.v3+json",
-    }
-    data = {
-        "title": commit_message,
-        "head": branch_name,
-        "base": "main",  # or "master" if your repository uses the old naming convention
-        "body": f"Automated pull request for {branch_name}",
-    }
-    response = requests.post(
-        f"https://api.github.com/repos/{repo_full_name}/pulls",
-        headers=headers,
-        json=data,
-    )
-    if response.status_code == 201:
-        print(f"Pull request created successfully: {response.json()['html_url']}")
-    else:
-        print(f"Failed to create pull request: {response.status_code}, {response.text}")
+    # Create a pull request using GitHub CLI
+    pr_create_command = [
+        "gh",
+        "pr",
+        "create",
+        "--title",
+        commit_message,
+        "--body",
+        f"Automated pull request for {branch_name}",
+        "--head",
+        branch_name,
+        "--base",
+        "main",  # Adjust if your main branch has a different name
+    ]
+    subprocess.run(pr_create_command, cwd=repo_path, check=True)
 
 
 def save_json_objects(json_list, root_directory):
@@ -98,7 +94,7 @@ def save_json_objects(json_list, root_directory):
         os.makedirs(directory, exist_ok=True)
         filepath = os.path.join(directory, filename)
         with open(filepath, "w") as file:
-            json.dump(json_obj, file)
+            json.dump(json_obj, file, indent=4)
 
         # Commit the changes and checkout back to the main branch
         commit_message = f"Add {manufacturer} {name} fixture"
