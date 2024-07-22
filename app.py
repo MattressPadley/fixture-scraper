@@ -1,8 +1,5 @@
 import os
-import sys
 import json
-import time
-import requests
 import subprocess
 
 
@@ -46,11 +43,6 @@ def git_commit_and_checkout(branch_name, repo_path, commit_message):
         ["git", "checkout", "main"], cwd=repo_path, check=True
     )  # Adjust if your main branch has a different name
 
-    # Push changes and create a PR
-    github_token = os.getenv(
-        "GITHUB_TOKEN"
-    )  # Ensure you've set this environment variable
-    repo_full_name = "your_github_username/your_repo_name"  # Replace with your GitHub username and repository name
     push_changes_and_create_pr(
         branch_name, repo_path, commit_message
     )
