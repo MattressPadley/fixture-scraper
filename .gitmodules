@@ -1,0 +1,3 @@
+[submodule "filmset-lighting-library"]
+	path = filmset-lighting-library
+	url = https://github.com/MattressPadley/filmset-lighting-library.git

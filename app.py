@@ -97,7 +97,7 @@ def save_json_objects(json_list, root_directory):
 
 
 # Define the root directory for the Git repository
-root_directory = "Open_fixture.lib"
+root_directory = "filmset-lighting-library"
 
 
 with open("import.json") as file:
