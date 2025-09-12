@@ -1,0 +1,1686 @@
+[{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4115"
+  },
+  "Name": "AX1 PixelTube",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4118"
+  },
+  "Name": "NYX Bulb",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4119"
+  },
+  "Name": "HydraPanel",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe411c"
+  },
+  "Name": "Titan Tube",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe411d"
+  },
+  "Name": "Helios Tube",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe411f"
+  },
+  "Name": "AX7 SpotLite",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4124"
+  },
+  "Name": "SkyPanel S30-C",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4126"
+  },
+  "Name": "SkyPanel S60-C",
+  "Manufacturer": "ARRI",
+  "Weight": "20lbs"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4127"
+  },
+  "Name": "M8",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe412b"
+  },
+  "Name": "SkyPanel S360-C",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe412c"
+  },
+  "Name": "Orbiter",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4130"
+  },
+  "Name": "ARRIMAX 18/12",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4132"
+  },
+  "Name": "D5",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4138"
+  },
+  "Name": "ST1/2 Theater",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4140"
+  },
+  "Name": "T1",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4144"
+  },
+  "Name": "650 Plus",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4148"
+  },
+  "Name": "2500 Baby",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe414a"
+  },
+  "Name": "T12",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe414c"
+  },
+  "Name": "18/12k HMI",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4155"
+  },
+  "Name": "QUAD COLOR",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4156"
+  },
+  "Name": "Q3 COLOR",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4159"
+  },
+  "Name": "JUICE BOX",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe415e"
+  },
+  "Name": "New P3L",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4163"
+  },
+  "Name": "MX",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe416b"
+  },
+  "Name": "amaran PT1c",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe416c"
+  },
+  "Name": "LS 60x",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4174"
+  },
+  "Name": "amaran PT4c",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4179"
+  },
+  "Name": "LS 1200d Pro",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe417a"
+  },
+  "Name": "Accent B7c",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe417e"
+  },
+  "Name": "MT Pro",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4180"
+  },
+  "Name": "Electro Storm XT26",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4183"
+  },
+  "Name": "24,000W Daylite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4189"
+  },
+  "Name": "650W Tweenie II",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe418a"
+  },
+  "Name": "2,000W Junior",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe418c"
+  },
+  "Name": "5,000W Senior",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4190"
+  },
+  "Name": "1,000W 6\" Baby",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4192"
+  },
+  "Name": "5,000W Molequartz Baby Senior",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4194"
+  },
+  "Name": "6000W Daylite Par",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4195"
+  },
+  "Name": "575W Daylite Par",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe419a"
+  },
+  "Name": "2500/400W Daylite Par",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe419b"
+  },
+  "Name": "2000W - 4 Light Molefay",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe419d"
+  },
+  "Name": "7800W - 12 Light Molefay",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe419e"
+  },
+  "Name": "5850W - 9 Light Molefay",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe419f"
+  },
+  "Name": "6000W Molequartz Molepar",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41a0"
+  },
+  "Name": "1300W - 2 Light Molefay",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41a7"
+  },
+  "Name": "10,000W 24\" Molebeam",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41aa"
+  },
+  "Name": "5,000W 24\" Molebeam",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41ab"
+  },
+  "Name": "2,500/4,000W 24\" Daylight\" Molebeam",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41ac"
+  },
+  "Name": "20,000W 36\" Molebeam",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41ad"
+  },
+  "Name": "12,000W 36\" Daylight\" Molebeam",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41af"
+  },
+  "Name": "6,000W Spacelite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41b0"
+  },
+  "Name": "10,000W Skylite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41ba"
+  },
+  "Name": "2K Super Softlite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41bd"
+  },
+  "Name": "1K Baby Softlite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41be"
+  },
+  "Name": "4K Super Softlite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41c2"
+  },
+  "Name": "1K Molelipso",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41ce"
+  },
+  "Name": "LiteMat Plus 4",
+  "Manufacturer": "LiteGear Inc.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41d0"
+  },
+  "Name": "LiteMat Spectrum 2L (2019)",
+  "Manufacturer": "LiteGear Inc.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41d3"
+  },
+  "Name": "LiteMat Spectrum 4 (2019)",
+  "Manufacturer": "LiteGear Inc.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41dd"
+  },
+  "Name": "Auroris V",
+  "Manufacturer": "LITEGEAR INC.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41de"
+  },
+  "Name": "LiteTile Plus 4",
+  "Manufacturer": "LITEGEAR INC.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41e0"
+  },
+  "Name": "LiteTile 8",
+  "Manufacturer": "LITEGEAR INC.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41e1"
+  },
+  "Name": "Source Four LED Series 3",
+  "Manufacturer": "ETC",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41e2"
+  },
+  "Name": "Desire",
+  "Manufacturer": "ETC",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4114"
+  },
+  "Name": "PlutoFresnel",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe411e"
+  },
+  "Name": "AX3 LightDrop",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4125"
+  },
+  "Name": "L7-C",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe412a"
+  },
+  "Name": "L10-C",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4131"
+  },
+  "Name": "D12",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4135"
+  },
+  "Name": "ST5",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4136"
+  },
+  "Name": "ST1",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4137"
+  },
+  "Name": "D40",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe413d"
+  },
+  "Name": "Compact 2500",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe413f"
+  },
+  "Name": "2000 Plus",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4142"
+  },
+  "Name": "300 Plus",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4145"
+  },
+  "Name": 1.8,
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4147"
+  },
+  "Name": "1200/1800k HMI",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4149"
+  },
+  "Name": "575/1200",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe414b"
+  },
+  "Name": "12/18",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe414d"
+  },
+  "Name": "T24",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe414f"
+  },
+  "Name": "G3 COLOR",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4151"
+  },
+  "Name": "P3 COLOR",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4153"
+  },
+  "Name": "Matrix COLOR",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe415b"
+  },
+  "Name": "P3S",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe415d"
+  },
+  "Name": "P5F",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe415f"
+  },
+  "Name": "New P5L",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4160"
+  },
+  "Name": "VIEW V360 Pro Viewing Lamp",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4162"
+  },
+  "Name": "LS 300d II",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe416e"
+  },
+  "Name": "Nova P300c",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4170"
+  },
+  "Name": "LS 600d",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4172"
+  },
+  "Name": "amaran F22c",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4177"
+  },
+  "Name": "INFINIBAR PB6",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe417d"
+  },
+  "Name": "amaran PT2c",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe417f"
+  },
+  "Name": "INFINIBAR PB3",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4181"
+  },
+  "Name": "amaran F21c",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4182"
+  },
+  "Name": "amaran T2c",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4188"
+  },
+  "Name": "300W Betweenie",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe418d"
+  },
+  "Name": "12,000W Molequartz Baby Twelver",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe418e"
+  },
+  "Name": "10,000/12,000W Tener",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4197"
+  },
+  "Name": "1200/1800W Daylite Par",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41a4"
+  },
+  "Name": "12000W Molequartz Moleeno",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41a5"
+  },
+  "Name": "24000W Molequartz Moleeno",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41b1"
+  },
+  "Name": "20,000W Skylite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41b2"
+  },
+  "Name": "5,000W Skylite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41b6"
+  },
+  "Name": "1K Super Softlite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41b7"
+  },
+  "Name": "2K Baby Zip Softlite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41b9"
+  },
+  "Name": "2000W Mighty-Mole",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41bc"
+  },
+  "Name": "600W Teenie-Weenie",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41c4"
+  },
+  "Name": "2K Molelipso",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41c5"
+  },
+  "Name": "Vortex8",
+  "Manufacturer": "Creamsource",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41c6"
+  },
+  "Name": "SpaceX",
+  "Manufacturer": "Creamsource",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41c8"
+  },
+  "Name": "Vortex4",
+  "Manufacturer": "Creamsource",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41d7"
+  },
+  "Name": "LiteMat Spectrum 2L (2023)",
+  "Manufacturer": "LITEGEAR INC.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41d8"
+  },
+  "Name": "LiteMat Spectrum 3 (2023)",
+  "Manufacturer": "LITEGEAR INC.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41db"
+  },
+  "Name": "Auroris X",
+  "Manufacturer": "LITEGEAR INC.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41e6"
+  },
+  "Name": "Source Four Jr",
+  "Manufacturer": "ETC",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41ed"
+  },
+  "Name": "DMG MINI",
+  "Manufacturer": "Rosco",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41ea"
+  },
+  "Name": "DMG DASH",
+  "Manufacturer": "Rosco",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4116"
+  },
+  "Name": "Hyperion Tube",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe411a"
+  },
+  "Name": "AX2 PixelBar (100cm)",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4120"
+  },
+  "Name": "AX2 PixelBar (50cm)",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4121"
+  },
+  "Name": "AX5 TriplePAR",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4122"
+  },
+  "Name": "AX9 PowerPAR",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4128"
+  },
+  "Name": "M18",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4129"
+  },
+  "Name": "L5-C",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe412d"
+  },
+  "Name": "SkyPanel S120-C",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe412e"
+  },
+  "Name": "M40",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4133"
+  },
+  "Name": "D25",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4134"
+  },
+  "Name": "ST2/3",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4139"
+  },
+  "Name": "ST5 Theater",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe413a"
+  },
+  "Name": "T2",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe413e"
+  },
+  "Name": "750 Plus",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4143"
+  },
+  "Name": "6/9",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4146"
+  },
+  "Name": "2.5/4k HMI",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4150"
+  },
+  "Name": "Q8 COLOR",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4152"
+  },
+  "Name": "Q10 COLOR",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4154"
+  },
+  "Name": "Q5 COLOR",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4157"
+  },
+  "Name": "MOTOQUAD",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4158"
+  },
+  "Name": "RPU",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe415c"
+  },
+  "Name": "P3F",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4161"
+  },
+  "Name": "VIEW V70 COLOR Viewing Lamp",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4164"
+  },
+  "Name": "amaran F21x",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4165"
+  },
+  "Name": "MC",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4167"
+  },
+  "Name": "LS 600x Pro",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe416d"
+  },
+  "Name": "MC Pro",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe416f"
+  },
+  "Name": "Nova P600c",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4173"
+  },
+  "Name": "amaran 300c",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe417c"
+  },
+  "Name": "INFINIBAR PB12",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4184"
+  },
+  "Name": "100/200W InBetweenie",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4185"
+  },
+  "Name": "2,000W Junior Solarspot",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4193"
+  },
+  "Name": "10,000W Molequartz Baby Tener",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4196"
+  },
+  "Name": "12000/18000W Daylite Par",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4198"
+  },
+  "Name": "1200W Daylite Par",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4199"
+  },
+  "Name": "800W Daylite Par",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe419c"
+  },
+  "Name": "650W -1 Light Molefay",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41a3"
+  },
+  "Name": "1000W Molequartz Molepar",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41ae"
+  },
+  "Name": "2,000W Spacelite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41b3"
+  },
+  "Name": "1,000W Spacelite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41b5"
+  },
+  "Name": "650W Teenie Mole",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41b8"
+  },
+  "Name": "1000W Mickey-Mole",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41bb"
+  },
+  "Name": "650W Mini Softlite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41bf"
+  },
+  "Name": "4K Softlite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41c1"
+  },
+  "Name": "2K Nooklite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41c7"
+  },
+  "Name": "Micro Colour",
+  "Manufacturer": "Creamsource",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41c9"
+  },
+  "Name": "Micro Bender",
+  "Manufacturer": "Creamsource",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41ca"
+  },
+  "Name": "LiteMat Plus 2L",
+  "Manufacturer": "LiteGear Inc.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41cb"
+  },
+  "Name": "LiteMat Plus 8",
+  "Manufacturer": "LiteGear Inc.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41cc"
+  },
+  "Name": "LiteMat Plus 1",
+  "Manufacturer": "LiteGear Inc.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41cd"
+  },
+  "Name": "LiteMat Plus 2",
+  "Manufacturer": "LiteGear Inc.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41d2"
+  },
+  "Name": "LiteMat Spectrum 3 (2019)",
+  "Manufacturer": "LiteGear Inc.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41d5"
+  },
+  "Name": "LiteMat Spectrum 2 (2023)",
+  "Manufacturer": "LITEGEAR INC.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41d6"
+  },
+  "Name": "LiteMat Spectrum 1 (2023)",
+  "Manufacturer": "LITEGEAR INC.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41da"
+  },
+  "Name": "LiteMat Spectrum 4 (2023)",
+  "Manufacturer": "LITEGEAR INC.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41e3"
+  },
+  "Name": "Source Four Mini",
+  "Manufacturer": "ETC",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41e5"
+  },
+  "Name": "Source Four LED Series 2",
+  "Manufacturer": "ETC",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41eb"
+  },
+  "Name": "DMG SL1",
+  "Manufacturer": "Rosco",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4117"
+  },
+  "Name": "PixelBrick",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe411b"
+  },
+  "Name": "LeoFresnel",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4123"
+  },
+  "Name": "AX10 SpotMax",
+  "Manufacturer": "Astera"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe412f"
+  },
+  "Name": "M90",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe413b"
+  },
+  "Name": "T5",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe413c"
+  },
+  "Name": "Compact 4000",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4141"
+  },
+  "Name": 150,
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe414e"
+  },
+  "Name": "EB 575/800",
+  "Manufacturer": "ARRI"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe415a"
+  },
+  "Name": "P3X",
+  "Manufacturer": "Fiilex",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4166"
+  },
+  "Name": "amaran F22x",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4168"
+  },
+  "Name": "LS 300x",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4169"
+  },
+  "Name": "amaran 150c",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe416a"
+  },
+  "Name": "LS 600d Pro",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4171"
+  },
+  "Name": "M9",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4175"
+  },
+  "Name": "LS 60d",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4176"
+  },
+  "Name": "Electro Storm CS15",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4178"
+  },
+  "Name": "LS 600c Pro",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe417b"
+  },
+  "Name": "amaran T4c",
+  "Manufacturer": "Aputure",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4186"
+  },
+  "Name": "12,000W/18,000W Daylite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4187"
+  },
+  "Name": "10,000/12,000W Big Eye",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe418b"
+  },
+  "Name": "20,000W Solarspot",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe418f"
+  },
+  "Name": "1,000W Molequartz Baby-Baby",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe4191"
+  },
+  "Name": "2,000W Molequartz Baby Junior",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41a1"
+  },
+  "Name": "9000W Molequartz Molepar",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41a2"
+  },
+  "Name": "3900W - 6 Light Molefay",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41a6"
+  },
+  "Name": "36000W Molequartz Moleeno",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41a8"
+  },
+  "Name": "2,000W 18\" Molebeam",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41a9"
+  },
+  "Name": "1,200W 18\" Daylight\" Molebeam",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41b4"
+  },
+  "Name": "12,000W Spacelite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41c0"
+  },
+  "Name": "650W Nooklite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41c3"
+  },
+  "Name": "1K Nooklite",
+  "Manufacturer": "Mole Richardson Co.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41cf"
+  },
+  "Name": "LiteMat Plus 3",
+  "Manufacturer": "LiteGear Inc.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41d1"
+  },
+  "Name": "LiteMat Spectrum 1 (2019)",
+  "Manufacturer": "LiteGear Inc.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41d4"
+  },
+  "Name": "LiteMat Spectrum 2 (2019)",
+  "Manufacturer": "LiteGear Inc.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41d9"
+  },
+  "Name": "LiteMat Spectrum 8 (2023)",
+  "Manufacturer": "LITEGEAR INC.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41dc"
+  },
+  "Name": "LiteTile 4",
+  "Manufacturer": "LITEGEAR INC.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41df"
+  },
+  "Name": "LiteTile Plus 8",
+  "Manufacturer": "LITEGEAR INC.",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41e4"
+  },
+  "Name": "Source Four PAR",
+  "Manufacturer": "ETC",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41e7"
+  },
+  "Name": "Source Four",
+  "Manufacturer": "ETC",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41e8"
+  },
+  "Name": "DMG LION",
+  "Manufacturer": "Rosco",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41e9"
+  },
+  "Name": "DMG MAXI",
+  "Manufacturer": "Rosco",
+  "Completion_State": "Not Started"
+},
+{
+  "_id": {
+    "$oid": "65c2f96321db613168fe41ec"
+  },
+  "Name": "DMG SL1 SWITCH",
+  "Manufacturer": "Rosco",
+  "Completion_State": "Not Started"
+}]
